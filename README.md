@@ -6,7 +6,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"  title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+  <img src="https://tse1.mm.bing.net/th?id=OIP.sHT1NGqoSDjEIqnHzun20QHaD4&pid=Api&P=0&h=220"  title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikos25K&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
